@@ -2,6 +2,8 @@
 
 3010 Fans as deliverd by FYSTEC in their Kit
 
+![DragonburnerShepardmod](/cLab-Mods/Dragon_Burner_v0.2_v8_Shepard_mini_mount_30x30_fans v6.png)
+
 # Voron Modifications
 
 These are mods that I have designed for my V0.1 and Trident.
