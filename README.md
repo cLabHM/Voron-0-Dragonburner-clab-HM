@@ -2,6 +2,8 @@
 
 3010 Fans as deliverd by FYSTEC in their Kit
 
+there is an additional mod for the toolheadboard bracket with the Shepard mini mount - seen in the picture below
+
 ![DragonburnerShepardmod](https://github.com/cLabHM/Voron-0-Dragonburner-clab-HM/blob/main/cLab-Mods/Dragon_Burner_v0.2_v8_Shepard_mini_mount_30x30_fans%20v6.png)
 
 # Voron Modifications
