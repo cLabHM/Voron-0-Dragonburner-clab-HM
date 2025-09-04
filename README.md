@@ -2,7 +2,7 @@
 
 3010 Fans as deliverd by FYSTEC in their Kit
 
-![DragonburnerShepardmod]([/cLab-Mods/Dragon_Burner_v0.2_v8_Shepard_mini_mount_30x30_fans v6.png](https://github.com/cLabHM/Voron-0-Dragonburner-clab-HM/blob/main/cLab-Mods/Dragon_Burner_v0.2_v8_Shepard_mini_mount_30x30_fans%20v6.png))
+![DragonburnerShepardmod](https://github.com/cLabHM/Voron-0-Dragonburner-clab-HM/blob/main/cLab-Mods/Dragon_Burner_v0.2_v8_Shepard_mini_mount_30x30_fans%20v6.png)
 
 # Voron Modifications
 
